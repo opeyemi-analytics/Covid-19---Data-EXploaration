@@ -1,4 +1,3 @@
-# PortfolioProjects
-Hi,
-
-This Repository will hold all of the code and queries from the Portfolio Projects I create. 
+# Covid- 19 Analysis
+ Did analysis on covid using excel and tableau 
+ 
